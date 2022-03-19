@@ -9,4 +9,4 @@ struct student {
     var grade:Double
     var attendence: Bool
 }
-var Ayah = student(name: "Ayah", age: 17, grade: 100,attendence: false)
+var ayah = student(name: "Ayah", age: 17, grade: 100,attendence: false)
